@@ -1,3 +1,6 @@
 docker images
 docker ps 
 docker ps -a
+docker volume ls
+docker network ls
+docker pull < image name >
