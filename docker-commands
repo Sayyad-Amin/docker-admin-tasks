@@ -4,3 +4,5 @@ docker ps -a
 docker volume ls
 docker network ls
 docker pull < image name >
+docker run hello world
+docker build -t < image name > .
