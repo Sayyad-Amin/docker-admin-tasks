@@ -6,3 +6,4 @@ docker network ls
 docker pull < image name >
 docker run hello world
 docker build -t < image name > .
+docker-compose up --build
